@@ -32,7 +32,7 @@ A beautiful, production-ready calculator built with a modern tech stack. Featuri
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/modern-calculator.git
+git clone https://github.com/abhay288/modern-calculator.git
 cd modern-calculator
 
 2. Install Dependencies
