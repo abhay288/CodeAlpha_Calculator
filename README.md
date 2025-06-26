@@ -1,7 +1,7 @@
 
 # 🧮 Modern Animated Calculator
 
-![Calculator Banner](https://jolly-figolla-d8500d.netlify.app/cover.png)
+![Calculator](https://jolly-figolla-d8500d.netlify.app/cover.png)
 
 A sleek, production-ready calculator built with React and TypeScript, featuring a modern animated design, glassmorphism UI, and full keyboard support.
 
